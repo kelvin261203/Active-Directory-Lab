@@ -6,8 +6,8 @@ Built a fully functional Active Directory lab environment using virtualization t
 
 ## 🛠️ Technologies Used
 
-- Windows Server 2019/2022
-- Windows 10/11 Pro
+- Windows Server 2019
+- Windows 11 
 - VirtualBox
 - Active Directory (AD DS)
 - DNS
